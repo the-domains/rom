@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ROM]]></title>
+        <description><![CDATA[ROM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 17:06:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Smart People Might Be Killing Your Strategy]]></title>
+            <description><![CDATA[<p>Corporate restructuring, M&A, competitive intelligence, strategy, new product development, and process reengineering.   One thing required for success that they all share is the need for the best and brightest. The smartest person in the room. World class minds to solve world class problems. Top grads from the best schools.I disagree. While intellect has its place in business, being smart is no replacement for creativity, agility, innovation or insight. Yes, sometimes these capabilities are rolled into one person, but rarely.  Several decades helping clients create strategy has led to some insight into where smart is a help and where it can be deadly.</p>]]></description>
+            <link>undefinedsmart-people-might-be-killing-your-strategy/index.html</link>
+            <guid isPermaLink="false">72d5749d-ab8a-4168-89fd-4500d5b0c4a5</guid>
+            <pubDate>Thu, 12 May 2016 17:06:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
